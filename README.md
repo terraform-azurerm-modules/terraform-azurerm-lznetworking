@@ -4,7 +4,7 @@ This Terraform module deploys a set of spoke networking resources based on [hub-
 
 - Resources deployed are highlighted in the following reference architecture diagram :
 
-![picture alt](/screenshots/reference.png =500x350)
+<img src=screenshots/reference.png width=700 height=450>
 
 
 :warning: This module assumes the networks are in two different **Azure Subscriptions** and the **_Usage_** is
