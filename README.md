@@ -8,7 +8,7 @@ This Terraform module deploys a set of spoke networking resources based on [hub-
 
 
 :warning: This module assumes the networks are in two different **Azure Subscriptions** and the **_Usage_** is
-based on how provider and alias can be utilised to deploy resources in two different subscriptions.
+based on how **provider** and **alias** can be utilised to deploy resources in two different subscriptions
 
 ## Usage
 
