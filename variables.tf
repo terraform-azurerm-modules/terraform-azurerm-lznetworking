@@ -14,7 +14,7 @@ provider "azurerm" {
 #-------------------------------
 variable "prefix" {
   description = "A prefix for the resources for the landing zone network"
-  default     = "" #(e.g. lz)
+  default     = "lz" #(to specify the landing zone resources)
   type        = string
 }
 
