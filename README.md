@@ -2,7 +2,10 @@
 
 This module deploys a set of networking resources based on [hub-spoke](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?tabs=cli) network topology. 
   
-## Currently WIP
+## ToDo (WIP)
+
+[] Usage
+[] Readme
 
 ### Reference links :
 
